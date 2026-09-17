@@ -18,7 +18,7 @@ What you get:
 
 ## Download
 
-Grab **CabMate.exe** from the [latest release](https://github.com/Bro-Town/CabMate-Releases/releases/latest). No installer, just run it.
+Grab **CabMate.exe** from the [latest release](https://github.com/Bro-Town/CabMate/releases/latest). No installer, just run it.
 
 When there's a new version, CabMate will ask when you open it. Hit Update now or Later, it's up to you.
 
