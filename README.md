@@ -4,7 +4,7 @@
 
 # CabMate
 
-CabMate turns your phone, tablet or a spare monitor into a proper driver's display for **Train Sim World 7**.
+CabMate turns your phone, tablet or a spare monitor into a proper driver's display for **Train Sim World**.
 
 It reads the game while you drive and shows you the things you'd normally be squinting at the HUD for: your speed, the current limit, what's coming up next and how far away it is. It also gives you a heads-up before a lower limit, the same way ETCS does. The speed arc drops as you approach, and it flashes a few seconds early so you're ready to follow it down.
 
@@ -18,7 +18,7 @@ What you get:
 
 ## Download
 
-Grab **CabMate.exe** from the [latest release](https://github.com/Bro-Town/CabMate/releases/latest). No installer, just run it.
+Grab **CabMate-Setup** from the [latest release](https://github.com/Bro-Town/CabMate/releases/latest) and run it. It needs no admin rights, adds CabMate to the Start menu and opens the read me when it's done.
 
 When there's a new version, CabMate will ask when you open it. Hit Update now or Later, it's up to you.
 
@@ -26,8 +26,8 @@ When there's a new version, CabMate will ask when you open it. Hit Update now or
 
 CabMate needs the game's API switched on. It's one launch option:
 
-- **Steam:** Library → right-click Train Sim World 7 → Properties → Launch Options → type `-HTTPAPI`
-- **Epic Games:** Library → the three dots on Train Sim World 7 → Manage → turn on Launch Options → type `-HTTPAPI`
+- **Steam:** Library → right-click Train Sim World → Properties → Launch Options → type `-HTTPAPI`
+- **Epic Games:** Library → the three dots on Train Sim World → Manage → turn on Launch Options → type `-HTTPAPI`
 
 Restart the game and you're good. If you forget, CabMate will walk you through it.
 
@@ -35,13 +35,14 @@ CabMate works with the PC versions on Steam and Epic Games. Xbox and PlayStation
 
 ## Using it
 
-1. Open **CabMate.exe**. It pops up in your browser and lives in the tray by the clock.
+1. Open **CabMate** from the Start menu. It pops up in your browser and lives in the tray by the clock.
 2. Want it on your phone or tablet? Choose **Allow phones and tablets**, then pick **Private networks** when Windows asks. Scan the QR code and you're in.
 3. Load a service, sit in the driver's seat and go.
 
 CabMate doesn't store anything, has no accounts and only talks to the internet to check for updates. Only devices on your own network can see it.
 
 The first time you run it, Windows might say it's from an unknown publisher. Click **More info**, then **Run anyway**.
+Windows Security may also hold the installer for a few seconds while it checks it online. That's normal for any new app.
 
 ## Need a hand?
 
